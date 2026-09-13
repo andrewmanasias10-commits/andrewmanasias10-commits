@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://andrewmanasias10-commits.github.io/Portafolio/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portafolio_Oficial-vanty.xyz-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://andrewmanasias10-commits.github.io/Portafolio/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portafolio_Oficial-Andrew-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/andrew-martinez-albitres/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Andrew_Martínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:andrewmanasias10@gmail.com"><img src="https://img.shields.io/badge/Email-andrewmanasias10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
