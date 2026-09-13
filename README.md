@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vanty.xyz/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portafolio_Oficial-vanty.xyz-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://andrewmanasias10-commits.github.io/Portafolio/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portafolio_Oficial-vanty.xyz-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/andrew-martinez-albitres/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Andrew_Martínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:andrewmanasias10@gmail.com"><img src="https://img.shields.io/badge/Email-andrewmanasias10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -12,9 +12,9 @@
 
 ### 👋 ¡Hola! Soy Andrew, encantado.
 
-* 💻 Full-Stack Software Engineer e Indie Maker enfocado en construir plataformas SaaS de alto impacto y arquitectura web moderna.
-* 🚀 Actualmente lidero el desarrollo de **Vanty ABA** y sistemas clínicos para optimizar procesos en América Latina.
-* 🎯 Interesado en arquitectura cloud, desarrollo frontend de alto rendimiento y automatización con IA.
+* 🎨💻 **Diseñador Gráfico, Diseñador Web y Full-Stack Software Engineer**. 
+* 🚀 Combino la creatividad visual con la programación para construir plataformas SaaS y experiencias web funcionales de alto impacto.
+* 💡 Actualmente lidero el desarrollo de **Vanty ABA** y diversos proyectos de software a medida.
 
 ---
 
@@ -40,15 +40,18 @@
   <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
-### 🎨 Herramientas y Diseño:
+### 🎨 Herramientas de Diseño:
 
 <p>
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/UI/UX_DESIGN-FF5722?style=for-the-badge&logo=adobe-xd&logoColor=white">
+  <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/PREMIERE_PRO-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white">
+  <img src="https://img.shields.io/badge/AFTER_EFFECTS-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white">
 </p>
 
 ---
 
 <p align="center">
-  <i>"Construyendo software eficiente y escalable desde América Latina."</i>
+  <i>"Diseñando experiencias visuales y construyendo software robusto."</i>
 </p>
