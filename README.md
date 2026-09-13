@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&height=220&color=gradient&customColorList=0,2,4,7,12&text=Andrew%20Mart%C3%inez%20Albitres&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="./img/banner.png" width="100%"/>
 </p>
 
 <p align="center">
