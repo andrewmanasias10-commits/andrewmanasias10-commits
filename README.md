@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hola, soy Andrew Martínez Albitres 👋
 
-<!--
-**andrewmanasias10-commits/andrewmanasias10-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer e Indie Maker. Apasionado por construir plataformas SaaS eficientes, cuidar la arquitectura backend y diseñar interfaces de usuario impecables.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack Tecnológico
+* **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
+* **Backend & Base de Datos:** Supabase, PostgreSQL, Node.js, Python
+* **Herramientas & Cloud:** Vercel, Git, GitHub, Docker, APIs de IA (Claude, Groq)
+
+### 🚀 Proyectos Destacados
+* **[Vanty ABA](https://vanty.xyz/vanty-aba):** Plataforma B2B SaaS para la gestión clínica y operativa en centros de terapia en Latinoamérica.
+* **[Capyaba](https://capyaba.com):** Sitio web clínico con pasarelas de pago y plataforma de cursos online.
+
+### 🌐 Conectemos
+* 💼 [LinkedIn](https://www.linkedin.com/in/andrew-martinez-albitres/)
+* ✉️ [Escríbeme un correo](mailto:andrewmanasias10@gmail.com)
